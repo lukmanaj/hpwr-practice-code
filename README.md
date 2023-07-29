@@ -1,2 +1,2 @@
 # hpwr-practice-code
-Codes containing practice codes on the book "Hands-On Programming with R"
+This repository contains my practice codes when I was reading Garrett Grolemund's ["Hands-On Programming with R"](https://rstudio-education.github.io/hopr/). I want to look at the code from time to time and also iterate on makng it better as I improve my overall R skills. It is my hope that the code could be useful to others just starting out. Maybe looking at the code can encourage others to take a look at the highly beneficial book which is fortunately free for academic use. 
